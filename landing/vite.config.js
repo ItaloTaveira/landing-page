@@ -7,7 +7,7 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/meu-projeto/' // coloque aqui o nome EXATO do seu repositório
+  base: '/landing-page/' // coloque aqui o nome EXATO do seu repositório
 })
 
 
