@@ -1,6 +1,5 @@
 <script setup>
 import Landing from './components/Landing.vue'
-import About from './About.vue'
 </script>
 
 <template>
