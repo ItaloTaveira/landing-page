@@ -21,9 +21,18 @@ import { mdiSoccerField } from "@mdi/js";
           Oferecemos consultoria especializada em análise de rendimento
           esportivo, atuando como extensão da comissão técnica. Por meio da
           coleta, organização e interpretação de informações, ajudamos sua
-          equipe a: Identificar padrões de jogo Mapear pontos fortes e aspectos
-          a melhorar Apoiar decisões estratégicas dentro e fora de campo
+          equipe a: 
         </p>
+          <p>
+          Identificar padrões de jogo 
+          </p>
+          <p>
+          Mapear pontos fortes e aspectos a melhorar 
+          </p>
+          <p>
+          Apoiar decisões estratégicas dentro e fora de campo
+          </p>
+    
         <h2>Por que é relevante?</h2>
         <p>
           Muitos clubes e equipes ainda não contam com analistas de rendimento
@@ -53,7 +62,7 @@ import { mdiSoccerField } from "@mdi/js";
         <p>
           Oferecer consultoria esportiva especializada em análise de rendimento,
           utilizando tecnologia e ciência de dados para transformar informações
-          em estratégias concretas que elevem o desempenho de equipes e atletas,
+          em ações concretas que elevem o desempenho de equipes e atletas,
           apoiando decisões técnicas e estratégicas dentro e fora de campo.
         </p>
         <h2>Visão</h2>
@@ -70,7 +79,7 @@ import { mdiSoccerField } from "@mdi/js";
         </p>
 
         <p>
-          novação: Aplicar tecnologia e ciência de dados para otimizar o
+          Inovação: Aplicar tecnologia e ciência de dados para otimizar o
           rendimento esportivo.
         </p>
         <p>
