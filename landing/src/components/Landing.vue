@@ -42,7 +42,7 @@ import { mdiSoccerField } from "@mdi/js";
       <v-col cols="6">
         <a
           href="https://docs.google.com/forms/d/e/1FAIpQLSet4gFwJSLMkr0V_dMIw4bYSM66JWN3oLOxCzc7bapY81LBiQ/viewform?usp=header"
-          >Clique aqui para saber mais!</a
+          >Clique aqui para responder ao nosso questionário!</a
         >
       </v-col>
     </v-row>
